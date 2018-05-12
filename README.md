@@ -1,4 +1,5 @@
 # testGit
 practice git repo
 
-made change   01
+made change   02
+can you dig it
